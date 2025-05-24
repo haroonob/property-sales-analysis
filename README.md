@@ -14,11 +14,7 @@ This analysis is the foundation for future extensions, including predictive mode
 - Calculation of key statistical measures: mean, median, mode, skewness, variance, and standard deviation of property prices
 
 ## Folder Structure
-property-sales-analysis/
-├── data/                # Raw dataset files (e.g., property.csv)
+```├── data/                # Raw dataset files (e.g., property.csv)
 ├── notebooks/           # Jupyter notebooks with analysis and visualizations
-├── scripts/             # Python scripts for processing and analysis
-├── reports/
-│   └── figures/         # Exported charts and graphs
 ├── requirements.txt     # Python dependencies file
-└── README.md            # Project documentation
+└── README.md            # Project documentation```
